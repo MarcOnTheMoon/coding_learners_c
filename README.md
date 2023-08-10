@@ -7,10 +7,9 @@ This raised the question, why not share material  with ... well, _you_, for inst
 In a first step, I will make material for the programming languages C and Java available. Other languages and topics (e.g., Arduino, Android  apps, image processing, AI) may follow in this or my other repositories, if time allows. Each workbook constists of a large number of exercises (with sample solutions provided), questions, and several more extensive lab assignments.
 
 ## Upload status (uploaded or still to come)
-- [X] [Sample solutions](src/c/workbook/exercises) for C programming exercises
-- [X] [Provided files](src/c/workbook/labs) for C lab assignments
-- [ ] C and Java workbooks (documents)
-- [ ] Java files (sample solutions, lab assignments)
+- [X] C workbook ([PDF](docs/), [sample solutions](src/c/workbook/exercises), [provided files for labs](src/c/workbook/labs))
+- [ ] C workbook (in German language)
+- [ ] Java workbook (PDF, sample solutions, provided files for labs)
 - [ ] Further lecture material (docs, sample codes, etc.)
 - [ ] Further languages or topics
 
