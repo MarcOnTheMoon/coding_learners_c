@@ -11,8 +11,8 @@ This raised the question, why not share material with ... well, _you_, for insta
 
 ## Upload status (uploaded or still to come)
 - [X] Workbook ([English](docs/))
-- [X] Sample [solutions](src/workbook/exercises) for the workbook exercises
 - [X] Provided files for [lab assignments](src/workbook/labs)
+- [X] Sample [solutions](src/workbook/exercises) for the  exercises
 - [X] [Sample codes](src/lecture) used in the lecture
 - [ ] Workbook (German)
 - [ ] Lecture slides (English, German)
