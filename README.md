@@ -11,11 +11,11 @@ This raised the question, why not share material with ... well, _you_, for insta
 
 ## Upload status (uploaded or still to come)
 - [X] Workbook ([English](docs/))
-- [ ] Workbook (German)
 - [X] Sample [solutions](src/workbook/exercises) for the workbook exercises
 - [X] Provided files for [lab assignments](src/workbook/labs)
-- [ ] Lecture slides (English, German)
 - [X] [Sample codes](src/lecture) used in the lecture
+- [ ] Workbook (German)
+- [ ] Lecture slides (English, German)
 
 ## Contact
 Marc Hensel, University of Applied Sciences Hamburg (HAW Hamburg)
