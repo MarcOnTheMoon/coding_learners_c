@@ -7,7 +7,7 @@ This raised the question, why not share material with ... well, _you_, for insta
 <br clear=all>
 
 ## Overview
-- The workbook contains a large number of exercises (with sample solutions), questions, and extensive lab assignments.
+- The workbook contains a large number of exercises (with sample solutions), questions, extensive lab assignments, and exams (with sample solution).
 - I am aware that the lecture sample codes would be far more valuable with the lecture slides provided. This may follow in future.
 
 ## Upload status (uploaded or still to come)
