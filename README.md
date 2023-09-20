@@ -1,9 +1,10 @@
 # C programing workbook and sample codes
-Teaching at Hamburg University of Applied Sciences (HAW Hamburg) since 2010, I have created lots of material for my students over the years. For software development this includes sample codes used in lecture as well as __workbooks__ meant to apply, apply, and apply by practical coding. In the end it is all about building up practical competencies to be prepared for your profession - meaning, one must be able to _do things_, in contrast to merely _knowing_.
+<img src="./assets/images/Cover.png" width="250" align=left>
+
+Teaching at Hamburg University of Applied Sciences (HAW Hamburg) since 2010, I have created lots of material for my students over the years. For software development this includes sample codes used in lecture as well as __workbooks__ meant to apply, apply, and apply by practical coding. In the end it is all about building up practical competencies to be prepared for your profession - meaning, one must be able to _do things_, in contrast to merely _knowing_.<p>
 
 This raised the question, why not share material with ... well, _you_, for instance, in case you find it helpful for your students or yourself. So this is exactly what I do.
-
-<img src="./assets/images/StartC.png" width="150"> 
+<br clear=all>
 
 ## Overview
 - The workbook contains a large number of exercises (with sample solutions), questions, and extensive lab assignments.
@@ -11,9 +12,10 @@ This raised the question, why not share material with ... well, _you_, for insta
 
 ## Upload status (uploaded or still to come)
 - [X] Workbook ([English](docs/))
-- [X] Provided files for [lab assignments](src/workbook/labs)
-- [X] Sample [solutions](src/workbook/exercises) for the  exercises
 - [X] [Sample codes](src/lecture) used in the lecture
+- [X] Sample solutions for the [exercises](src/workbook/exercises)
+- [X] Provided files and sample solutions for the [exams](src/workbook/exams)
+- [X] Provided files for [lab assignments](src/workbook/labs)
 - [ ] Workbook (German)
 - [ ] Lecture slides (English, German)
 
