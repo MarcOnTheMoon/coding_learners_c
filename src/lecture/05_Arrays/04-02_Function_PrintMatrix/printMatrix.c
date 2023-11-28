@@ -12,15 +12,15 @@
 #include <stdio.h>
 
 /* Prototypes */
-void printMatrix3(int [][3], int);
+void printMatrix3(int a[][3], int rows);
 
 /* Main function */
 int main(void)
 {
-	int a[][3] = { { 20, 37, 10 }, { 16, 2, 14 } };
+	int data[][3] = { { 20, 37, 10 }, { 16, 2, 14 } };
 
 	printf("Print 2-D array to the console:\n");
-	printMatrix3(a, 2);
+	printMatrix3(data, 2);
 
 	getchar();
 	return 0;
