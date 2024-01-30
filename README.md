@@ -7,7 +7,7 @@ This raised the question, why not share material with ... well, _you_, for insta
 <br clear=all>
 
 ## Overview
-- The [workbook](docs/) contains a large number of exercises (with [sample solutions](src/workbook/exercises)), questions, extensive lab assignments (with [provided files](src/workbook/labs)), and exams (with [provided files and sample solution](src/workbook/exams)).
+- The [workbook](docs/) contains a large number of exercises (with [sample solutions](src/workbook/exercises)), questions, extensive lab assignments (with [provided files](src/workbook/labs)), and exams (with [provided files and sample solutions](src/workbook/exams)).
 - I am aware that the lecture [sample codes](src/lecture) would be far more valuable with the lecture slides provided. This may follow in future.
 
 ## Upload status (uploaded or still to come)
