@@ -1,4 +1,4 @@
-# C programing workbook and sample codes
+# C programming workbook and sample codes
 <img src="./assets/images/Cover.png" width="250" align=left>
 
 Teaching at Hamburg University of Applied Sciences (HAW Hamburg) since 2010, I have created lots of material for my students over the years. For software development this includes sample codes used in lecture as well as __workbooks__ meant to apply, apply, and apply by practical coding. In the end it is all about building up practical competencies to be prepared for your profession - meaning, one must be able to _do things_, in contrast to merely _knowing_.<p>
